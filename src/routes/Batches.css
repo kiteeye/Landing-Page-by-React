@@ -1,0 +1,32 @@
+
+/* Timetable.css */
+
+.timetable-container {
+  font-family: Arial, sans-serif;
+  width: 50%; 
+  margin: auto;
+  margin-top: 50px;
+  border-top: 6px solid rgb(75, 73, 73);
+  border-left: 6px solid rgb(75, 73, 73);
+  
+  border-right: 6px solid rgb(75, 73, 73);
+}
+
+.timetable {
+  width: 100%; 
+  border-collapse: collapse; 
+}
+
+.timetable th, .timetable td {
+  border: 1px solid #ddd; 
+  padding: 8px;
+  text-align: left; 
+}
+
+.timetable th {
+  background-color: #f2f2f2; 
+}
+
+.timetable tbody tr:nth-child(even) {
+  background-color: #f2f2f2; 
+}

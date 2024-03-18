@@ -1,0 +1,48 @@
+
+
+.about {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background-color: #f0f0f0;
+  padding: 50px 0;
+}
+
+.welcome h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #333;
+}
+
+.community, .achievements {
+  background-color: #fff;
+  padding: 50px;
+  margin-top: 20px;
+  
+}
+
+.community h2, .achievements h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.community p, .achievements p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.community{
+  border-top: 6px solid rgb(75, 73, 73);
+  border-left: 6px solid rgb(75, 73, 73);
+  border-bottom:6px solid rgb(75, 73, 73) ;
+  border-right: 6px solid rgb(75, 73, 73);
+}
+
+.achievements {
+  border-top: 6px solid rgb(75, 73, 73);
+  border-left: 6px solid rgb(75, 73, 73);
+   ;
+  border-right: 6px solid rgb(75, 73, 73);
+}

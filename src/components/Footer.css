@@ -1,0 +1,36 @@
+
+.footer {
+  background-color: #ede7e7;
+  color: black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 6px solid rgb(75, 73, 73);
+}
+
+.contact-info {
+  display: flex;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  color: black;
+}
+
+.contact-item p {
+  margin-left: 10px;
+}
+
+.social-icons a {
+  color: black; 
+  margin-right: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #483b50;
+}

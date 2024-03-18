@@ -1,0 +1,63 @@
+
+
+.form-page {
+  font-family: Arial, sans-serif;
+  width: 40%; 
+  margin: auto;
+  margin-top: 50px;
+  float: left; 
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-group textarea {
+  height: 100px;
+}
+
+button {
+  background-color: #262829;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* FormPage.css */
+
+.message {
+  background-color: rgb(238, 234, 234);
+  width: 800px;
+  padding: 10px; 
+  margin-left: auto;
+  margin-right: 20px; 
+  padding-top: 120px;
+   
+}
+
+.message p {
+  font-size: 50px;
+  margin: 0; 
+}
+
